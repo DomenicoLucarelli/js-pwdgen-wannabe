@@ -13,7 +13,4 @@ let coloreUtente = prompt("inserisci il tuo colore preferito");
 
 // document.writeln(nomeUtente + cognomeUtente + coloreUtente + "26");
 
-document.writeln(`${nomeUtente}${cognomeUtente}${coloreUtente}"26"`);
-
-
-
+document.writeln(`${nomeUtente}${cognomeUtente}${coloreUtente}26`);
