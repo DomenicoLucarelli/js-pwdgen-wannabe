@@ -5,9 +5,9 @@
 -visualizza a schermo con un numero scelto a caso da me
 */
 
-let nomeUtente = prompt("inserisci il tuo nome");
+const nomeUtente = prompt("inserisci il tuo nome");
 
-let cognomeUtente = prompt("inserisci il tuo cognome");
+const cognomeUtente = prompt("inserisci il tuo cognome");
 
 let coloreUtente = prompt("inserisci il tuo colore preferito");
 
